@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="3" total="5" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="51667" started-at="2018-04-21T15:53:32Z" finished-at="2018-04-21T15:54:23Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="51667" started-at="2018-04-21T15:53:32Z" finished-at="2018-04-21T15:54:23Z">
+      <class name="testcases.CreateAccountPOM">
+        <test-method status="PASS" signature="beforeSuite()[pri:0, instance:testcases.CreateAccountPOM@1afa04c]" name="beforeSuite" is-config="true" duration-ms="272" started-at="2018-04-21T21:23:31Z" finished-at="2018-04-21T21:23:32Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeSuite -->
+        <test-method status="PASS" signature="setData()[pri:0, instance:testcases.CreateAccountPOM@1afa04c]" name="setData" is-config="true" duration-ms="0" started-at="2018-04-21T21:23:32Z" finished-at="2018-04-21T21:23:32Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setData -->
+        <test-method status="PASS" signature="setData()[pri:0, instance:testcases.MergeAccountPOM@a12c19]" name="setData" is-config="true" duration-ms="0" started-at="2018-04-21T21:23:32Z" finished-at="2018-04-21T21:23:32Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setData -->
+        <test-method status="PASS" signature="beforeClass()[pri:0, instance:testcases.CreateAccountPOM@1afa04c]" name="beforeClass" is-config="true" duration-ms="1" started-at="2018-04-21T21:23:32Z" finished-at="2018-04-21T21:23:32Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:testcases.CreateAccountPOM@1afa04c]" name="beforeMethod" is-config="true" duration-ms="7670" started-at="2018-04-21T21:23:32Z" finished-at="2018-04-21T21:23:39Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="createAccount()[pri:0, instance:testcases.CreateAccountPOM@1afa04c]" name="createAccount" duration-ms="25757" started-at="2018-04-21T21:23:39Z" finished-at="2018-04-21T21:24:05Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createAccount -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:testcases.CreateAccountPOM@1afa04c]" name="afterMethod" is-config="true" duration-ms="712" started-at="2018-04-21T21:24:05Z" finished-at="2018-04-21T21:24:06Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="afterTest()[pri:0, instance:testcases.CreateAccountPOM@1afa04c]" name="afterTest" is-config="true" duration-ms="0" started-at="2018-04-21T21:24:23Z" finished-at="2018-04-21T21:24:23Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+        <test-method status="PASS" signature="afterSuite()[pri:0, instance:testcases.CreateAccountPOM@1afa04c]" name="afterSuite" is-config="true" duration-ms="284" started-at="2018-04-21T21:24:23Z" finished-at="2018-04-21T21:24:24Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterSuite -->
+      </class> <!-- testcases.CreateAccountPOM -->
+      <class name="testcases.MergeAccountPOM">
+        <test-method status="PASS" signature="beforeClass()[pri:0, instance:testcases.MergeAccountPOM@a12c19]" name="beforeClass" is-config="true" duration-ms="0" started-at="2018-04-21T21:24:06Z" finished-at="2018-04-21T21:24:06Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:testcases.MergeAccountPOM@a12c19]" name="beforeMethod" is-config="true" duration-ms="5753" started-at="2018-04-21T21:24:06Z" finished-at="2018-04-21T21:24:11Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="mergeAccount()[pri:0, instance:testcases.MergeAccountPOM@a12c19]" name="mergeAccount" duration-ms="11024" started-at="2018-04-21T21:24:11Z" finished-at="2018-04-21T21:24:23Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- mergeAccount -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:testcases.MergeAccountPOM@a12c19]" name="afterMethod" is-config="true" duration-ms="738" started-at="2018-04-21T21:24:23Z" finished-at="2018-04-21T21:24:23Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+      </class> <!-- testcases.MergeAccountPOM -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
